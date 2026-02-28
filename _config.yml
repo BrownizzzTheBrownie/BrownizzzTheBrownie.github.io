@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  BrownizzzTheBrownie
 
 # Build settings
-theme: jekyll-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
